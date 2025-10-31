@@ -29,6 +29,9 @@ public class CustomList {
         cities.remove(city);
     }
 
-
+    //countCities --> Adding this makes the test pass
+    public int countCities() {
+        return cities.size();
+    }
 
 }
