@@ -1,6 +1,6 @@
 package com.example.lab08;
 
-// The class city includes city and province names
+
 public class City {
     private String city;
     private String province;
